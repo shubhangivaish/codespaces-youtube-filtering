@@ -1,5 +1,6 @@
-🚀 **Smart Content Command Center
-📺 The Problem**
+🚀 **Smart Content Command Center**
+
+📺**The Problem**
 Modern video platforms are intentionally designed with aggressive recommendation algorithms to keep users hooked. For professionals, students, and creators, trying to watch educational content or business case studies means wading through an endless stream of distracting memes, shorts, and clickbait.
 
 💡 **The Solution**
