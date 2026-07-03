@@ -1,10 +1,10 @@
-🚀 **Smart Content Command Center**
+🚀 **Youtube Command Center**
 
 📺**The Problem**
 Modern video platforms are intentionally designed with aggressive recommendation algorithms to keep users hooked. For professionals, students, and creators, trying to watch educational content or business case studies means wading through an endless stream of distracting memes, shorts, and clickbait.
 
 💡 **The Solution**
-The Smart Content Command Center is a private, distraction-free digital workspace. It completely cuts out the middleman (the YouTube feed) by automatically pulling the latest videos from designated educational channels (like Think School) straight into a clean, custom dashboard.
+Youtube Command Center is a private, distraction-free digital workspace. It completely cuts out the middleman (the YouTube feed) by automatically pulling the latest videos from designated channels that user adds straight into a clean, custom dashboard.
 
 By separating the "data gathering" process from the "display web page," the application loads instantaneously without any loading spinners or buffering.
 
